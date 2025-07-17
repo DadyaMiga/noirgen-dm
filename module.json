@@ -1,0 +1,26 @@
+{
+  "id": "noirgen-dm",
+  "title": "Нуарный Генератор (для ГМ)",
+  "description": "Набор макросов для быстрой генерации персонажей в стиле нуар. Добавляет в компендиумы набор макросов для создания досье.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "DadyaMiga"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "macros",
+      "label": "Нуарный Генератор (Досье)",
+      "path": "packs/macros",
+      "type": "Macro"
+    }
+  ],
+  "url": "https://github.com/DadyaMiga/noirgen-dm",
+  "manifest": "https://raw.githubusercontent.com/DadyaMiga/noirgen-dm/main/module.json",
+  "download": "https://github.com/DadyaMiga/noirgen-dm/archive/refs/heads/main.zip"
+}
